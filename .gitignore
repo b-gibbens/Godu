@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/godu.db
+API/godu.db-shm
+API/godu.db-wal
